@@ -29,28 +29,4 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 课程/教师主页上列出的内容（请在获得教师许可后上传）
 如果你认为本仓库的一些文件侵犯了您的权益，请向[我](zhaoqyu@gmail.com)发送邮件 。我们将会从仓库中彻底清除这些文件。
 
-许可
 
-
-<!-- 
-
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
--->
